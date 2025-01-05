@@ -126,6 +126,9 @@ ex)
 
 <br>
 
+## 가르침
+- [멈추지 않는 한, 천천히 가는지는 중요하지 않다](./theme/teaching/dont-stop.md)
+
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
