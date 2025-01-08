@@ -134,6 +134,9 @@ ex)
 
 <br>
 
+## 일
+- [일할때 최선을 다하라.](./theme/work/goes-a-mile.md)
+
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
