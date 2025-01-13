@@ -128,7 +128,7 @@ ex)
 
 ## 투자
 
-- [방망이를 짧게 잡아라](./theme/coin/trader.md)
+- [방망이를 짧게 잡아라](./theme/investment/hold-bat-short.md)
 
 <br>
 
