@@ -134,6 +134,12 @@ ex)
 
 <br>
 
+## 경영
+
+- [의사 소통에서 중요한 것은 말하지 않는 것을 듣는 것이다.](./theme/management/drucker.md)
+
+<br>
+
 ## 투자
 
 - [방망이를 짧게 잡아라](./theme/investment/hold-the-bat-short.md)
