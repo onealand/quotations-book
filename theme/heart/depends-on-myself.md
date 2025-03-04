@@ -35,3 +35,5 @@
 결국 모든 것이 나로부터 시작되는 것이다.
 나를 다스려야 뜻을 이룬다.
 모든것은 내 자신에 달려있다
+
+Everything depends on myself.(Baekbeom Kim Gu)
