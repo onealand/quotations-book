@@ -111,6 +111,7 @@ ex)
 ## 마음
 
 - [연탄재 함부로 발로 차지 마라. 너는 누구에게 한번이라도 뜨거운 사람이었느냐](./theme/heart/i-ask-you.md)
+- [모든것은 내 자신에게게 달려있다. Everything depends on myself 백범 김구](./theme/heart/depends-on-myself.md)
 
 <br>
 
