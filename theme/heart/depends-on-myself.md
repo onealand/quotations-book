@@ -37,3 +37,38 @@
 모든것은 내 자신에 달려있다
 
 Everything depends on myself.(Baekbeom Kim Gu)
+
+When I was young, there was no one more important than me,
+When I got older, there was no one as great as me,
+When I got older, there was no one worse than me.
+If you work for money, it's a job,
+And when you work beyond money, it's a calling.
+If you work as a job, you get a salary,
+And if you work as a calling, you get a gift.
+If you're used to praise, your heart is shaken by criticism,
+And if you're used to being treated, your heart is hurt by being treated poorly.
+The problem is my heart that has become accustomed and tamed.
+Even if the house is small, we can live together,
+But if people are narrow-minded, we can't live together.
+If I don't challenge myself to do things that I can't do,
+I can't get to places that I can't go to.
+In fact, I have to go beyond myself to leave this place,
+And I have to overcome myself to get there.
+No one knows how much further I can go from a place where I think I've gone far enough,
+And no one knows how much longer I can endure from a place where I think I've endured enough.
+The way to create hell is simple.
+Just hate the people close to you.
+The way to create heaven is also simple. Love the people close to you.
+Everything starts from close by.
+I decide whether I will be hurt or not.
+I also decide whether I will nurture the hurt or not.
+I can't help what that person does, but my reaction is always mine.
+You have to go through labor pains to be born a new life,
+You have to go through spring cold to get spring,
+And after darkness comes dawn.
+The more I speak roughly, the more I become rough,
+The more I speak obscenely, the more I become obscene,
+The more I speak fiercely, the more I become fierce.
+In the end, everything starts from me.
+I have to control myself to achieve my goal.
+Everything depends on myself.
