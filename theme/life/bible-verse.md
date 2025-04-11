@@ -1,0 +1,7 @@
+빌립보서 4:13 # [ADD]: 제목 추가
+
+내게 능력주시는 자 안에서 내가 모든 것을 할 수 있느니라 # [ADD]: 한글 문장 추가
+
+Philippians 4:13 # [ADD] : 영어 제목 추가
+
+I am able to do all things through him who gives me strength # [ADD] : 영어 내용 추가
