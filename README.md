@@ -120,6 +120,8 @@ ex)
 
 ## 우정
 
+- [우리는 사랑하는 친구들에 의해서만 알려진다.](./theme/friendship/advertise-by-friend.md)
+
 <br>
 
 ## 인생
