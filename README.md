@@ -126,6 +126,8 @@ ex)
 
 - [자신을 변화시키는 가장 빠른 방법은 이미 자신이 원하는 모습으로 변한 사람들과 어울리는 것입니다.](./theme/life/change-yourself.md)
 
+ [하루하루를 어떻게 사느냐가 인생을 결정한다.](./theme/life/Annie-Dillard.md)
+
 <br>
 
 ## 조화
