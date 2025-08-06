@@ -128,6 +128,10 @@ ex)
 
 <br>
 
+## 태도
+- [Be Kind](./theme/attitude/kind.md)
+<br>
+
 ## 조화
 
 - [행복한 가정은 모두 비슷한 이유로 행복하지만 불행한 가정은 저마다의 이유로 불행하다](./theme/harmony/anna-karenina.md)
