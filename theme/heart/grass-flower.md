@@ -10,3 +10,11 @@
 
 
 Grass Flower(Poet Na Tae-joo)
+
+Only when you look closely
+does it become beautiful
+
+Only when you look for a long time
+does it become lovable
+
+You are just the same
