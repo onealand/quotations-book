@@ -6,3 +6,4 @@
 When angry(Writer Mark Twain)
 
 When angry, count to four.
+If very angry, swear.
