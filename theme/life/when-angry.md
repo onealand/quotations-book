@@ -4,3 +4,5 @@
 더 화가 난다면, 욕설을 퍼부어라.
 
 When angry(Writer Mark Twain)
+
+When angry, count to four.
