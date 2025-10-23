@@ -140,6 +140,12 @@ ex)
 
 <br>
 
+## Ani
+
+- [승부를 걸어라](./theme/Ani/show-bu.md)
+
+<br>
+
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
