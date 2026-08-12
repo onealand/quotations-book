@@ -122,6 +122,12 @@ ex)
 
 <br>
 
+## 희생
+
+- [다른 사람 대신 너 자신을 희생하라.](./theme/sacrifice/Lebron.md)
+
+<br>
+
 ## 인생
 
 - [자신을 변화시키는 가장 빠른 방법은 이미 자신이 원하는 모습으로 변한 사람들과 어울리는 것입니다.](./theme/life/change-yourself.md)
