@@ -140,6 +140,12 @@ ex)
 
 <br>
 
+## 의지
+
+- [오늘 당신은 당신이 원하는 모든 것을 할 수 있다](./theme/will/you-can-do.md)
+
+<br>
+
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
