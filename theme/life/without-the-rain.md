@@ -1,0 +1,7 @@
+(아랍 속담)
+
+항상 맑으면 사막이 된다
+
+(Arab proverb)
+
+Sunshine all the time makes a desert
