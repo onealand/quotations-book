@@ -1,0 +1,9 @@
+너무 보고플 땐 눈이 온다(시인 고명재)
+
+가장 차가운 곳에 봄의 문양이 숨어 있다니
+그건 포기를 모르는 마음 같구나
+
+When I Miss You Too Much, It Snows (Poet Ko Myung-jae)
+
+To think a pattern of spring hides in the coldest place
+It is like a heart that does not know how to give up
