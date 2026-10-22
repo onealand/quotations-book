@@ -4,3 +4,5 @@
 그건 포기를 모르는 마음 같구나
 
 When I Miss You Too Much, It Snows (Poet Ko Myung-jae)
+
+To think a pattern of spring hides in the coldest place
