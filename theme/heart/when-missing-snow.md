@@ -2,3 +2,5 @@
 
 가장 차가운 곳에 봄의 문양이 숨어 있다니
 그건 포기를 모르는 마음 같구나
+
+When I Miss You Too Much, It Snows (Poet Ko Myung-jae)
