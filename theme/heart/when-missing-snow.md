@@ -6,3 +6,4 @@
 When I Miss You Too Much, It Snows (Poet Ko Myung-jae)
 
 To think a pattern of spring hides in the coldest place
+It is like a heart that does not know how to give up
