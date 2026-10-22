@@ -111,6 +111,7 @@ ex)
 ## 마음
 
 - [연탄재 함부로 발로 차지 마라. 너는 누구에게 한번이라도 뜨거운 사람이었느냐](./theme/heart/i-ask-you.md)
+- [가장 차가운 곳에 봄의 문양이 숨어 있다니 그건 포기를 모르는 마음 같구나](./theme/heart/when-missing-snow.md)
 
 <br>
 
