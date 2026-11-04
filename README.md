@@ -126,6 +126,7 @@ ex)
 
 - [자신을 변화시키는 가장 빠른 방법은 이미 자신이 원하는 모습으로 변한 사람들과 어울리는 것입니다.](./theme/life/change-yourself.md)
 
+- [내가 세상에서 보기를 원하는 변화가 되어라.](./theme/life/be-the-change.md)
 <br>
 
 ## 조화
